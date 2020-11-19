@@ -17,6 +17,7 @@
 // @include      https://docs.aws.amazon.com/ko_kr/*/*/ag/*.html
 // @include      https://docs.aws.amazon.com/ko_kr/*/*/red-ug/*.html
 // @include      https://docs.aws.amazon.com/ko_kr/*/*/mem-ug/*.html
+// @include      https://docs.aws.amazon.com/ko_kr/general/*/gr/*.html
 // @exclude      https://docs.aws.amazon.com/ko_kr/*/*/*/*.html?iframe
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @grant        none
